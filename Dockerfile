@@ -1,4 +1,2 @@
-FROM n8nio/n8n
-
-EXPOSE 5678
+FROM n8nio/n8n:latest
 CMD ["n8n"]
